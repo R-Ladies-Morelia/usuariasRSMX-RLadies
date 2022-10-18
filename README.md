@@ -1,5 +1,6 @@
 # Usuarias de Redes Sociales en México | RLadies Morelia
 En este repositorio veremos el proceso para graficar la cantidad de usuarias de diferentes redes sociales.
+Hecho por [@tipicanerd](https://github.com/tipicanerd)
 
 ## Archivos
 * **data** Es una carpeta que contiene el conjunto de datos necesario para realizar la gráfica.
